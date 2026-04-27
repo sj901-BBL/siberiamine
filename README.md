@@ -5,4 +5,4 @@
 
 IP - siberiamine.play.ski
 
-Так же рекомендую скачать данный лаунчер - https://github.com/ElyPrismLauncher/Launcher/releases/download/11.0.2/PineconeMC-Windows-MinGW-arm64-Setup-11.0.2.exe
+Так же рекомендую скачать данный лаунчер - https://github.com/ElyPrismLauncher/Launcher/releases/download/11.0.2/PineconeMC-Windows-MSVC-Setup-11.0.2.exe
